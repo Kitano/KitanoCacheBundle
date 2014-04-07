@@ -1,5 +1,7 @@
 # CacheBundle
 
+**CAUTION: THIS BUNDLE IS DEPRECATED AND THE DEVELOPMENT HAS MOVED TO A NEW REPOSITORY [https://github.com/TheBigBrainsCompany/TbbcCacheBundle](https://github.com/TheBigBrainsCompany/TbbcCacheBundle)**
+
 Add cache abstraction and method annotations for controlling cache.
 The current implementation of the Cache component is a wrapper (proxy) for Doctrine\Common\Cache.
 
